@@ -1,0 +1,15 @@
+
+{
+    "name":"Foreign Traveller",
+    "description":"Get to known about a country you want to travel",
+    "version":"1.0",
+    "manifest_version":3,
+    "action":{
+      "default_popup":"popup.html",
+      "default_icon":"traveller.png"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
